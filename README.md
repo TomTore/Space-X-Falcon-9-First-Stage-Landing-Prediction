@@ -7,6 +7,9 @@ Such cost estimates are critical for any alternative launch provider seeking to 
 
 ## Problems to Be Addressed
 How can the safety advantages of coastal pad locations be quantified in terms of stage drop zones and booster recovery corridors over open sea?
+
 What buffer distances from shoreline, major highways and rail lines—and what exclusion zones around populated areas—strike the optimal balance between logistical efficiency and public safety?
+
 What relationships exist between payload mass, booster variant and landing outcome, and which combinations maximize touchdown reliability?
+
 How accurately can machine-learning classifiers predict first-stage landing success when trained on a comprehensive set of mission parameters?
